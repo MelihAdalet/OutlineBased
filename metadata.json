@@ -1,0 +1,5 @@
+{
+  "name": "OutlineBased",
+  "description": "A country guessing game powered by Gemini AI hints and Google Maps data.",
+  "requestFramePermissions": []
+}
