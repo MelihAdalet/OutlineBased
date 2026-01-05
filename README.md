@@ -2,6 +2,8 @@
 
 Live demo: https://melihadalet.github.io/OutlineBased/
 
+## This Readme file is AI ahhhh generated, i wanted to try. The Game's Scoreboard is only local saved in your Cookies. 🍪 very yummy. And if you guess Countrys there is the History beneath that, but you can't scroll down, you can only see like the first 3 Countrys you guessed. Also this Game is made by AI [Gemini]. Lowkey it's "fun" you can test your Country Border Knowledge at least. Also theres an AI hint thinggy inclouded but it needs an Key. If you fork or smth, i'd be glad if you gave some credits to me, because it did take some time to "Perfect" this Game.
+
 OutlineBased is a small, fun geography game that challenges you to identify countries from their outlines (silhouettes). Each round shows a country's shape; your job is to type (or pick) the correct country name. The app is designed for quick play, learning, and sharing high scores.
 
 Features
